@@ -2,4 +2,4 @@
 just another repository
 Hello, This is first change.
 
-Thi is the another change.
+This is the another change.
